@@ -7,5 +7,7 @@ public interface CalculadoraService {
 	
 	//////////////////////////////modificacion 1º
 	public int multiplicar(int a, int b);
+	
+	public void metodoTeams();
 
 }

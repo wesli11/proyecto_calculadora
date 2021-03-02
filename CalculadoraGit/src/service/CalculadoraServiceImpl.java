@@ -20,4 +20,9 @@ public class CalculadoraServiceImpl implements CalculadoraService {
 		return a*b;
 	}
 
+	@Override
+	public void metodoTeams() {
+     System.out.println(">>METODO DEL TEAM<<");	
+	}
+
 }
